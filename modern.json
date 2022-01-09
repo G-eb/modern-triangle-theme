@@ -1,0 +1,22 @@
+{
+    "manifest": {
+        "author": "Geb <$",
+        "version": "1.0.0",
+        "name": "modern triangle",
+        "updater": "https:\/\/raw.githubusercontent.com\/gebwyd\/modern-triangle-theme\/main\/modern.json"
+    },
+    "background": {
+        "overlay_alpha": 20,
+        "blur_radius": 1,
+        "url": "https:\/\/i.imgur.com\/zylZP4y.jpg"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "background": -14145495,
+        "background_secondary": -14145495,
+        "active_channel": -12961222
+    },
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}
